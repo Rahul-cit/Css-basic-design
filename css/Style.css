@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:yellow;
+    background-color: black;
+}
+p{
+    font-size: x-large;
+    font-family: Garamond ;
+    color: blue;
+    text-align: justify;
+   
+            
+            
+}
+a{
+    background-color:red ;
+    display: block;
+    padding: 20px;
+    width: 70px; 
+    text-decoration: none;
+    font-size: medium;
+    color:white  
+}
